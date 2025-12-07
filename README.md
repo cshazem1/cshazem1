@@ -1,342 +1,102 @@
-# 👋 Welcome to My Portfolio
+# Hazem Mahmoud Mohamed
 
 <div align="center">
 
-### 🚀 Flutter Developer | Clean Architecture Enthusiast | Performance Optimizer
+### 🚀 Flutter Developer | Clean Architecture | Performance Expert
 
-*Crafting scalable, beautiful mobile applications with precision and passion*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hazem-mahmoud-mohamed-615996338/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/cshazem1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:hazem.mahmoud.m1@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/201558368864)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-mahmoud-mohamed-615996338/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cshazem1)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazem.mahmoud.m1@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201558368864)
-
-**Located in:** 🇪🇬 Egypt | **Status:** 💼 Open for Opportunities
+🇪🇬 Egypt • 2+ Years Experience • Open for Opportunities
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 💼 Experience
 
-I'm a **Flutter Developer** with **2+ years** of professional experience building production-grade mobile applications. I specialize in:
+### 🚗 EV Cozmo | Flutter Developer @ HNE Futures
+**Oct 2024 – Present**
+- 🗺️ Interactive map & AI agent for EV comparison
+- ⚡ Real-time battery tracking & route optimization
+- 🎁 Reward system & multi-category marketplace
 
-- 🏗️ **Clean Architecture** - Domain/Data/Presentation layer separation
-- ⚡ **Performance Optimization** - Achieved 40% loading speed improvements and 95% optimization rates
-- 🎨 **Responsive UI** - Adaptive design for iOS and Android
-- 🔧 **State Management** - Expert in BLoC, Cubit, and Provider patterns
-- 🚀 **Full-Stack Integration** - Firebase, REST APIs, gRPC, Google Maps
-- 🧪 **Testing & CI/CD** - Unit testing, CodeMagic, GitHub Actions pipelines
+[<img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play" height="20"/> ](https://play.google.com/store/search?q=ev+cozmo&c=apps) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store" height="20"/>](https://apps.apple.com/us/app/ev-cozmo/id6504797651)
 
-> *"Code is poetry. Architecture is its foundation. Performance is its soul."*
+### 🛍️ Sahm Arabi | Flutter Developer @ Tech4Life
+**May – Nov 2024**
+- ⚡ 40% performance optimization
+- 📱 5+ new screens & Google Maps integration
+- 🎤 Dr Omar Kamel App: 95% loading speed boost
 
----
+[<img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play" height="20"/> ](https://play.google.com/store/apps/details?id=com.newSahmaraby.app) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store" height="20"/>](https://apps.apple.com/us/app/sahm-araby-%D8%B3%D9%87%D9%85-%D8%B9%D8%B1%D8%A8%D9%8A/id6755391700)
 
-## 💼 Professional Experience
+### 🚕 Rateel Taxi | Flutter Developer @ Code Craft
+**Jul – Oct 2024**
+- GPS tracking • Secure payments • Driver verification
 
-### 🚗 **EV Cozmo** - Flutter Developer @ HNE Futures
-**Oct 2024 – Present** | Full-Time, Hybrid
-
-*Revolutionizing electric vehicle adoption through intelligent mobile solutions*
-
-| Achievement | Impact |
-|---|---|
-| 🗺️ Interactive Map Integration | Real-time charging station discovery |
-| 🤖 AI Agent Development | Smart EV comparison & route optimization |
-| 🔋 Battery Intelligence | Real-time battery status at each stop |
-| 🎁 Reward System | Enhanced user engagement & retention |
-| 📊 Marketplace | Multi-category EV ecosystem |
-
-**Tech Stack:** `Flutter` • `Dart` • `Firebase` • `Google Maps API` • `Clean Architecture`
-
-| Platform | Link |
-|---|---|
-| <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" height="24"/> | [EV Cozmo on Google Play](https://play.google.com/store/search?q=ev+cozmo&c=apps) |
-| <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store" height="24"/> | [EV Cozmo on App Store](https://apps.apple.com/us/app/ev-cozmo/id6504797651) |
+[<img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play" height="20"/>](https://play.google.com/store/apps)
 
 ---
 
-### 🛍️ **Sahm Arabi** - Flutter Developer @ Tech4Life
-**May 2024 – Nov 2024** | Freelancer
+## 📱 Personal Projects
 
-*Building Saudi Arabia's multi-vendor e-commerce platform connecting factories with customers*
-
-| Optimization | Results |
-|---|---|
-| ⚡ Performance Boost | 40% faster app loading |
-| 🎯 Feature Development | 5+ new screens delivered |
-| 🗺️ Google Maps Integration | Seamless location services |
-| 🏗️ Architecture | Cubit state management |
-
-**Parallel Project:** Dr Omar Kamel App
-- 🔊 Audio Functionality Enhancement
-- 📖 95% Book Loading Speed Optimization
-
-**Tech Stack:** `Flutter` • `Dart` • `Cubit` • `Google Maps` • `API Integration`
-
-| Platform | Link |
-|---|---|
-| <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" height="24"/> | [Sahm Arabi on Google Play](https://play.google.com/store/apps/details?id=com.newSahmaraby.app) |
-| <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store" height="24"/> | [Sahm Arabi on App Store](https://apps.apple.com/us/app/sahm-araby-%D8%B3%D9%87%D9%85-%D8%B9%D8%B1%D8%A8%D9%8A/id6755391700) |
-
-**Dr Omar Kamel App:**
-| Platform | Link |
-|---|---|
-| <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" height="24"/> | [Dr Omar Kamel on Google Play](https://play.google.com/store/apps/details?id=com.okamel.doctoromar) |
+| Project | Tech | Highlights |
+|---------|------|-----------|
+| **📚 Bookly** | MVVM + BLoC | [95% adherence](https://github.com/cshazem1/bookly) |
+| **🛒 Wasil** | Clean Arch | [Hive + Firebase](https://github.com/cshazem1/wasil_app) |
+| **🍔 Food App** | Native Android | [98% success rate](https://github.com/cshazem1/food_app) |
 
 ---
 
-### 🚕 **Rateel Taxi** - Flutter Developer @ Code Craft
-**Jul 2024 – Oct 2024** | Part-Time, Remote
+## 🛠️ Skills
 
-*GPS-powered ride-booking platform for Iraqi market*
-
-- 📍 Real-time GPS Tracking
-- 💳 Secure Payment Processing
-- ✅ Driver Verification System
-- 🌍 Multi-market Scalability
-
-**Tech Stack:** `Flutter` • `Dart` • `Location Services` • `Payment Integration`
-
-| Platform | Link |
-|---|---|
-| <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" height="24"/> | [Rateel Taxi on Google Play](https://play.google.com/store/apps) |
+| Category | Skills | Level |
+|----------|--------|-------|
+| **Mobile** | Flutter, Dart, Kotlin, Java | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square) |
+| **Architecture** | Clean, BLoC, MVVM, Cubit | ![92%](https://img.shields.io/badge/92%25-2196F3?style=flat-square) |
+| **Backend** | Firebase, REST APIs, gRPC, Maps | ![87%](https://img.shields.io/badge/87%25-4CAF50?style=flat-square) |
+| **Database** | Hive, SQLite, Firestore | ![88%](https://img.shields.io/badge/88%25-4CAF50?style=flat-square) |
+| **DevOps** | CodeMagic, GitHub Actions | ![88%](https://img.shields.io/badge/88%25-4CAF50?style=flat-square) |
 
 ---
 
-### 📱 **Mobile Development Intern** - DEPI
-**Apr 2024 – Oct 2024** | Hybrid | Funded by MCIT
+## 🎓 Education
 
-*Grant from Ministry of Communications & Information Technology*
+**BS Computer Science** | Tanta University (2018-2022) • GPA: 2.55
 
-- Mastered Flutter & Dart fundamentals
-- 🏗️ Implemented OOP principles
-- 📦 State management with Provider & Cubit
-- 💾 Database: SQLite & Shared Preferences
-- 🤖 Android development with Kotlin
-
-**Certification:** [MCIT Digital Transformation Grant](https://drive.google.com/file/d/13ZMQXmMMBRnCeurvWoq8WPYnpRkk0PKA/view)
+**Certifications**
+- ✅ Mastering Flutter & Responsive UI
+- ✅ Clean Architecture in Flutter
+- ✅ BLoC & MVVM Patterns
+- ✅ MCIT Digital Transformation Grant
 
 ---
 
-## 🎓 Personal Projects
+## 🌟 Achievements
 
-### 📚 **Bookly App** - Book Exploration Platform
-*Seamless browsing and discovering your next favorite read*
-
-- 🏗️ **Architecture:** MVVM + BLoC (95% adherence)
-- 📡 **APIs:** Book data integration
-- 💫 **UI/UX:** Smooth animations and transitions
-- 🔍 Powerful search & filtering
-
-**Repository:** 
-| | |
-|---|---|
-| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="24"/> | [cshazem1/bookly](https://github.com/cshazem1/bookly) |
-
----
-
-### 🛒 **Wasil App** - E-commerce Platform
-*Enterprise-grade shopping experience with advanced features*
-
-- 🏗️ **Clean Architecture:** Domain/Data/Presentation layers
-- 🔐 **Firebase Authentication:** Secure user management
-- 🛍️ **Cart Management:** Guest-to-user migration
-- 💾 **Local Storage:** Hive + Injectable DI
-- ⚡ Performance-optimized
-
-**Repository:**
-| | |
-|---|---|
-| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="24"/> | [cshazem1/wasil_app](https://github.com/cshazem1/wasil_app) |
-
----
-
-### 🍔 **Food Ordering App** - Android Native (Graduation Project)
-*Enterprise food ordering system achieving 98% success rate*
-
-- 🤖 **Native Android:** Java development
-- 🔥 **Firebase Integration:** Real-time data sync
-- 📊 **Success Rate:** 98%
-- 🎓 **Grade:** Excellent
-
-**Repository:**
-| | |
-|---|---|
-| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="24"/> | [cshazem1/food_app](https://github.com/cshazem1/food_app) |
-
----
-
-## 🛠️ Technical Skills
-
-### Mobile Development
-
-| Skill | Proficiency |
-|---|---|
-| **Flutter** | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
-| **Dart** | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
-| **Kotlin** | ![70%](https://img.shields.io/badge/70%25-FF9800?style=flat-square&logoColor=white) |
-| **Android Native (Java)** | ![65%](https://img.shields.io/badge/65%25-FF9800?style=flat-square&logoColor=white) |
-
-### Architecture & Patterns
-
-| Pattern | Proficiency |
-|---|---|
-| **Clean Architecture** | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
-| **BLoC Pattern** | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
-| **MVVM Pattern** | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
-| **Cubit** | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
-| **Provider** | ![80%](https://img.shields.io/badge/80%25-4CAF50?style=flat-square&logoColor=white) |
-
-### Backend & APIs
-
-| Technology | Proficiency |
-|---|---|
-| **Firebase** | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
-| **REST APIs (Dio/Http)** | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
-| **gRPC** | ![70%](https://img.shields.io/badge/70%25-FF9800?style=flat-square&logoColor=white) |
-| **Google Maps API** | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
-| **Payment Integration** | ![75%](https://img.shields.io/badge/75%25-FF9800?style=flat-square&logoColor=white) |
-
-### Databases
-
-| Database | Proficiency |
-|---|---|
-| **Hive** | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
-| **SQLite** | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
-| **Firebase Firestore** | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
-| **Shared Preferences** | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
-
-### Testing & DevOps
-
-| Tool | Proficiency |
-|---|---|
-| **Unit Testing (bloc_test)** | ![80%](https://img.shields.io/badge/80%25-4CAF50?style=flat-square&logoColor=white) |
-| **Integration Testing** | ![70%](https://img.shields.io/badge/70%25-FF9800?style=flat-square&logoColor=white) |
-| **CodeMagic CI/CD** | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
-| **GitHub Actions** | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
-
----
-
-## 🎓 Education & Certifications
-
-### 🎓 Bachelor's Degree in Computer Science
-**Tanta University, Faculty of Science** | 2018 – 2022
-- 📊 GPA: 2.55 (Very Good)
-- 🏆 Graduation Project: Food Ordering App (98% success rate)
-
-### 📜 Professional Certifications
-
-| Certificate | Platform | Status |
-|---|---|---|
-| ✅ Mastering Flutter: Responsive & Adaptive UI Design | Udemy | Completed |
-| ✅ Deep Dive into Clean Architecture in Flutter | Udemy | Completed |
-| ✅ Flutter Advanced Course: BLoC & MVVM Pattern | Udemy | Completed |
-| ✅ Complete Flutter & Dart Development Course | Udemy | Completed |
-| ✅ Mastering Programming: A Comprehensive Course | Udemy | Completed |
-| ✅ MCIT Digital Transformation Grant | DEPI Program | Completed |
-
----
-
-## 🌟 Key Achievements
-
-| 🎯 Metric | 📈 Achievement |
-|---|---|
-| ⚡ **Performance** | 40% app loading speed improvement (Sahm Arabi) |
-| 📖 **Optimization** | 95% book loading speed boost (Dr Omar Kamel) |
-| 🎓 **Architecture** | 95% BLoC pattern adherence (Bookly App) |
-| ✅ **Success Rate** | 98% food ordering system reliability |
-| 🚀 **Apps Released** | 6+ production apps on Google Play & App Store |
-| 🏆 **Experience** | 2+ years professional Flutter development |
-| 💼 **Companies** | HNE Futures, Tech4Life, Code Craft, DEPI |
-
----
-
-## 🧠 Soft Skills
-
-| Skill | Proficiency |
-|---|---|
-| 💡 Problem Solving | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
-| 🤝 Teamwork | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
-| 🎨 Creativity | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
-| 🗣️ Communication | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
-| 😊 Sociability | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
-| 🔥 Enthusiasm | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
-| 🎯 Passion | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
+| Metric | Achievement |
+|--------|------------|
+| ⚡ Performance | 40% speed boost (Sahm Arabi) |
+| 📈 Optimization | 95% loading improvement (Dr Omar Kamel) |
+| 🚀 Apps Released | 6+ production apps |
+| 🏆 Architecture | 95% BLoC adherence |
+| ✅ Success Rate | 98% (Food Ordering App) |
 
 ---
 
 ## 🌐 Languages
 
-| Language | Proficiency |
-|---|---|
-| 🇸🇦 Arabic (Native) | ![Native](https://img.shields.io/badge/Native-2196F3?style=flat-square&logoColor=white) |
-| 🇺🇸 English | ![Very Good](https://img.shields.io/badge/Very_Good-4CAF50?style=flat-square&logoColor=white) |
-
----
-
-## 📊 GitHub Statistics
-
-| Metric | Details |
-|---|---|
-| 📱 **Projects** | 10+ repositories |
-| ⭐ **Focus** | Flutter, Clean Architecture, Performance |
-| 📈 **Contributions** | Active open-source contributor |
-| 🏆 **Best Practices** | Unit Testing, CI/CD, Clean Code |
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cshazem1&show_icons=true&theme=dark)](https://github.com/cshazem1)
-
----
-
-## 💬 Let's Connect!
-
-I'm passionate about building exceptional mobile experiences and always open to discussing:
-
-- 🏗️ **Architecture patterns** and best practices
-- ⚡ **Performance optimization** techniques
-- 🎨 **UI/UX implementation** challenges
-- 🚀 **Product development** strategies
-- 📚 **Knowledge sharing** and mentorship
-- 💼 **Career opportunities** and collaborations
-
-### 📞 Get in Touch
-
-| Contact | Details |
-|---|---|
-| 💼 **LinkedIn** | [Hazem Mahmoud Mohamed](https://www.linkedin.com/in/hazem-mahmoud-mohamed-615996338/) |
-| 📧 **Email** | hazem.mahmoud.m1@gmail.com |
-| 📱 **WhatsApp** | [+20 1558 368 864](https://wa.me/201558368864) |
-| 🐙 **GitHub** | [@cshazem1](https://github.com/cshazem1) |
+🇸🇦 **Arabic** (Native) • 🇺🇸 **English** (Very Good)
 
 ---
 
 <div align="center">
 
-### 🎯 *"Excellence is not a destination; it's a continuous journey of learning and improvement."*
-
-**Made with ❤️ by Hazem Mahmoud Mohamed**
+**Made with ❤️ by Hazem**
 
 [![Views](https://komarev.com/ghpvc/?username=cshazem1&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/cshazem1)
 
-⭐ **If you like my work, please consider giving a star to my repositories!**
-
 </div>
-
----
-
-## 📄 License
-
-This portfolio is open source and available under the [MIT License](LICENSE).
-
----
-
-### 🚀 What's Next?
-
-I'm continuously learning and expanding my skills. Currently exploring:
-- 🔍 Advanced Performance Optimization
-- 🧪 Test-Driven Development (TDD)
-- 🎯 Backend Development with Dart
-- 📱 iOS-specific Development
-- 🤖 AI Integration in Mobile Apps
-
-**Let's build something amazing together! 🚀**
