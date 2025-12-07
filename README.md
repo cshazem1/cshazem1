@@ -6,7 +6,7 @@
 
 *Crafting scalable, beautiful mobile applications with precision and passion*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-mahmoud-mohamed-615996338/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-mahmoud-6187b61b8/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cshazem1)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazem.mahmoud.m1@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201558368864)
@@ -89,7 +89,6 @@ I'm a **Flutter Developer** with 2+ years of professional experience building pr
 
 **Tech Stack:** `Flutter` • `Dart` • `Location Services` • `Payment Integration`
 
-[🔗 Available on Google Play](https://play.google.com)
 
 ---
 
