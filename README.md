@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:hazem.mahmoud.m1@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/201558368864)
 
-🇪🇬 Egypt • 1 Years Experience • Open for Opportunities
+🇪🇬 Egypt • 2+ Years Experience • Open for Opportunities
 
 </div>
 
@@ -23,7 +23,8 @@
 - ⚡ Real-time battery tracking & route optimization
 - 🎁 Reward system & multi-category marketplace
 
-[<img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play" height="20"/> ](https://play.google.com/store/search?q=ev+cozmo&c=apps) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store" height="20"/>](https://apps.apple.com/us/app/ev-cozmo/id6504797651)
+[![Google Play](https://img.shields.io/badge/Google%20Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/search?q=ev+cozmo&c=apps)
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/ev-cozmo/id6504797651)
 
 ### 🛍️ Sahm Arabi | Flutter Developer @ Tech4Life
 **May – Nov 2024**
@@ -31,12 +32,14 @@
 - 📱 5+ new screens & Google Maps integration
 - 🎤 Dr Omar Kamel App: 95% loading speed boost
 
-[<img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play" height="20"/> ](https://play.google.com/store/apps/details?id=com.newSahmaraby.app) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store" height="20"/>](https://apps.apple.com/us/app/sahm-araby-%D8%B3%D9%87%D9%85-%D8%B9%D8%B1%D8%A8%D9%8A/id6755391700)
+[![Google Play](https://img.shields.io/badge/Google%20Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.newSahmaraby.app)
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/sahm-araby-%D8%B3%D9%87%D9%85-%D8%B9%D8%B1%D8%A8%D9%8A/id6755391700)
 
 ### 🚕 Rateel Taxi | Flutter Developer @ Code Craft
 **Jul – Oct 2024**
 - GPS tracking • Secure payments • Driver verification
 
+[![Google Play](https://img.shields.io/badge/Google%20Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps)
 
 ---
 
@@ -64,7 +67,7 @@
 
 ## 🎓 Education
 
-**BS Computer Science** | Tanta University (2018-2022) • GPA: 2.55 // Very Good
+**BS Computer Science** | Tanta University (2018-2022) • GPA: 2.55
 
 **Certifications**
 - ✅ Mastering Flutter & Responsive UI
@@ -86,10 +89,12 @@
 
 ---
 
+## 🌐 Languages
+
+🇸🇦 **Arabic** (Native) • 🇺🇸 **English** (Very Good)
 
 ---
 
 <div align="center">
-
 
 </div>
