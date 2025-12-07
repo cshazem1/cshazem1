@@ -4,7 +4,7 @@
 
 ### 🚀 Flutter Developer | Clean Architecture | Performance Expert
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hazem-mahmoud-mohamed-615996338/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hazem-mahmoud-6187b61b8/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/cshazem1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazem.mahmoud.m1@gmail.com)
 
@@ -39,7 +39,6 @@
 **Jul – Oct 2024**
 - GPS tracking • Secure payments • Driver verification
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps)
 
 ---
 
