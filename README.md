@@ -6,10 +6,10 @@
 
 *Crafting scalable, beautiful mobile applications with precision and passion*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-mahmoud-6187b61b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-mahmoud-mohamed-615996338/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cshazem1)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazem.mahmoud.m1@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201558368864)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201558368864)
 
 **Located in:** 🇪🇬 Egypt | **Status:** 💼 Open for Opportunities
 
@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-I'm a **Flutter Developer** with 2+ years of professional experience building production-grade mobile applications. I specialize in:
+I'm a **Flutter Developer** with **2+ years** of professional experience building production-grade mobile applications. I specialize in:
 
 - 🏗️ **Clean Architecture** - Domain/Data/Presentation layer separation
 - ⚡ **Performance Optimization** - Achieved 40% loading speed improvements and 95% optimization rates
@@ -49,7 +49,10 @@ I'm a **Flutter Developer** with 2+ years of professional experience building pr
 
 **Tech Stack:** `Flutter` • `Dart` • `Firebase` • `Google Maps API` • `Clean Architecture`
 
-[🔗 Google Play](https://play.google.com/store/search?q=ev+cozmo&c=apps) | [🔗 App Store](https://apps.apple.com/us/app/ev-cozmo/id6504797651)
+| Platform | Link |
+|---|---|
+| <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" height="24"/> | [EV Cozmo on Google Play](https://play.google.com/store/search?q=ev+cozmo&c=apps) |
+| <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store" height="24"/> | [EV Cozmo on App Store](https://apps.apple.com/us/app/ev-cozmo/id6504797651) |
 
 ---
 
@@ -71,9 +74,15 @@ I'm a **Flutter Developer** with 2+ years of professional experience building pr
 
 **Tech Stack:** `Flutter` • `Dart` • `Cubit` • `Google Maps` • `API Integration`
 
-[🔗 Google Play](https://play.google.com/store/apps/details?id=com.newSahmaraby.app) | [🔗 App Store](https://apps.apple.com/us/app/sahm-araby-%D8%B3%D9%87%D9%85-%D8%B9%D8%B1%D8%A8%D9%8A/id6755391700)
+| Platform | Link |
+|---|---|
+| <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" height="24"/> | [Sahm Arabi on Google Play](https://play.google.com/store/apps/details?id=com.newSahmaraby.app) |
+| <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store" height="24"/> | [Sahm Arabi on App Store](https://apps.apple.com/us/app/sahm-araby-%D8%B3%D9%87%D9%85-%D8%B9%D8%B1%D8%A8%D9%8A/id6755391700) |
 
-**Dr Omar Kamel App:** [🔗 Google Play](https://play.google.com/store/apps/details?id=com.okamel.doctoromar)
+**Dr Omar Kamel App:**
+| Platform | Link |
+|---|---|
+| <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" height="24"/> | [Dr Omar Kamel on Google Play](https://play.google.com/store/apps/details?id=com.okamel.doctoromar) |
 
 ---
 
@@ -89,6 +98,9 @@ I'm a **Flutter Developer** with 2+ years of professional experience building pr
 
 **Tech Stack:** `Flutter` • `Dart` • `Location Services` • `Payment Integration`
 
+| Platform | Link |
+|---|---|
+| <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" height="24"/> | [Rateel Taxi on Google Play](https://play.google.com/store/apps) |
 
 ---
 
@@ -103,6 +115,8 @@ I'm a **Flutter Developer** with 2+ years of professional experience building pr
 - 💾 Database: SQLite & Shared Preferences
 - 🤖 Android development with Kotlin
 
+**Certification:** [MCIT Digital Transformation Grant](https://drive.google.com/file/d/13ZMQXmMMBRnCeurvWoq8WPYnpRkk0PKA/view)
+
 ---
 
 ## 🎓 Personal Projects
@@ -115,7 +129,10 @@ I'm a **Flutter Developer** with 2+ years of professional experience building pr
 - 💫 **UI/UX:** Smooth animations and transitions
 - 🔍 Powerful search & filtering
 
-**Repository:** [github.com/cshazem1/bookly](https://github.com/cshazem1/bookly)
+**Repository:** 
+| | |
+|---|---|
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="24"/> | [cshazem1/bookly](https://github.com/cshazem1/bookly) |
 
 ---
 
@@ -128,7 +145,10 @@ I'm a **Flutter Developer** with 2+ years of professional experience building pr
 - 💾 **Local Storage:** Hive + Injectable DI
 - ⚡ Performance-optimized
 
-**Repository:** [github.com/cshazem1/wasil_app](https://github.com/cshazem1/wasil_app)
+**Repository:**
+| | |
+|---|---|
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="24"/> | [cshazem1/wasil_app](https://github.com/cshazem1/wasil_app) |
 
 ---
 
@@ -140,43 +160,61 @@ I'm a **Flutter Developer** with 2+ years of professional experience building pr
 - 📊 **Success Rate:** 98%
 - 🎓 **Grade:** Excellent
 
-**Repository:** [github.com/cshazem1/FoodOrderingApp](https://github.com/cshazem1/FoodOrderingApp)
+**Repository:**
+| | |
+|---|---|
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="24"/> | [cshazem1/food_app](https://github.com/cshazem1/food_app) |
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Mobile Development
-Flutter          ████████████████████ 95%
-Dart             ████████████████████ 95%
-Kotlin           ████████████░░░░░░░░ 70%
-Android Native   ████████████░░░░░░░░ 65%
+
+| Skill | Proficiency |
+|---|---|
+| **Flutter** | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
+| **Dart** | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
+| **Kotlin** | ![70%](https://img.shields.io/badge/70%25-FF9800?style=flat-square&logoColor=white) |
+| **Android Native (Java)** | ![65%](https://img.shields.io/badge/65%25-FF9800?style=flat-square&logoColor=white) |
 
 ### Architecture & Patterns
-Clean Architecture    ████████████████████ 95%
-BLoC Pattern          ████████████████████ 90%
-MVVM Pattern          ████████████████░░░░ 85%
-Cubit                 ████████████████████ 90%
-Provider              ███████████████░░░░░ 80%
+
+| Pattern | Proficiency |
+|---|---|
+| **Clean Architecture** | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
+| **BLoC Pattern** | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
+| **MVVM Pattern** | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
+| **Cubit** | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
+| **Provider** | ![80%](https://img.shields.io/badge/80%25-4CAF50?style=flat-square&logoColor=white) |
 
 ### Backend & APIs
-Firebase              ████████████████████ 95%
-REST APIs (Dio/Http)  ████████████████████ 90%
-gRPC                  ████████████░░░░░░░░ 70%
-Google Maps API       ████████████████████ 85%
-Payment Integration   ████████████░░░░░░░░ 75%
+
+| Technology | Proficiency |
+|---|---|
+| **Firebase** | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
+| **REST APIs (Dio/Http)** | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
+| **gRPC** | ![70%](https://img.shields.io/badge/70%25-FF9800?style=flat-square&logoColor=white) |
+| **Google Maps API** | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
+| **Payment Integration** | ![75%](https://img.shields.io/badge/75%25-FF9800?style=flat-square&logoColor=white) |
 
 ### Databases
-Hive                  ████████████████████ 90%
-SQLite                ████████████████████ 85%
-Firebase Firestore    ████████████████████ 85%
-Shared Preferences    ████████████████████ 90%
+
+| Database | Proficiency |
+|---|---|
+| **Hive** | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
+| **SQLite** | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
+| **Firebase Firestore** | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
+| **Shared Preferences** | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
 
 ### Testing & DevOps
-Unit Testing (bloc_test)   ████████████████░░░░ 80%
-Integration Testing        ████████████░░░░░░░░ 70%
-CodeMagic CI/CD            ████████████████████ 90%
-GitHub Actions             ████████████████░░░░ 85%
+
+| Tool | Proficiency |
+|---|---|
+| **Unit Testing (bloc_test)** | ![80%](https://img.shields.io/badge/80%25-4CAF50?style=flat-square&logoColor=white) |
+| **Integration Testing** | ![70%](https://img.shields.io/badge/70%25-FF9800?style=flat-square&logoColor=white) |
+| **CodeMagic CI/CD** | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
+| **GitHub Actions** | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
 
 ---
 
@@ -188,14 +226,15 @@ GitHub Actions             ████████████████░�
 - 🏆 Graduation Project: Food Ordering App (98% success rate)
 
 ### 📜 Professional Certifications
-| Certificate | Platform |
-|---|---|
-| ✅ Mastering Flutter: Responsive & Adaptive UI Design | Udemy |
-| ✅ Deep Dive into Clean Architecture in Flutter | Udemy |
-| ✅ Flutter Advanced Course: BLoC & MVVM Pattern | Udemy |
-| ✅ Complete Flutter & Dart Development Course | Udemy |
-| ✅ Mastering Programming: A Comprehensive Course | Udemy |
-| ✅ MCIT Digital Transformation Grant | DEPI Program • [📄 Certificate](https://drive.google.com/file/d/13ZMQXmMMBRnCeurvWoq8WPYnpRkk0PKA/view) |
+
+| Certificate | Platform | Status |
+|---|---|---|
+| ✅ Mastering Flutter: Responsive & Adaptive UI Design | Udemy | Completed |
+| ✅ Deep Dive into Clean Architecture in Flutter | Udemy | Completed |
+| ✅ Flutter Advanced Course: BLoC & MVVM Pattern | Udemy | Completed |
+| ✅ Complete Flutter & Dart Development Course | Udemy | Completed |
+| ✅ Mastering Programming: A Comprehensive Course | Udemy | Completed |
+| ✅ MCIT Digital Transformation Grant | DEPI Program | Completed |
 
 ---
 
@@ -209,18 +248,21 @@ GitHub Actions             ████████████████░�
 | ✅ **Success Rate** | 98% food ordering system reliability |
 | 🚀 **Apps Released** | 6+ production apps on Google Play & App Store |
 | 🏆 **Experience** | 2+ years professional Flutter development |
+| 💼 **Companies** | HNE Futures, Tech4Life, Code Craft, DEPI |
 
 ---
 
 ## 🧠 Soft Skills
 
-💡 Problem Solving     █████████████████░░ 90%
-🤝 Teamwork            ███████████████████░ 95%
-🎨 Creativity          ███████████████░░░░░ 85%
-🗣️  Communication       ████████████████░░░░ 85%
-😊 Sociability         ███████████████░░░░░ 85%
-🔥 Enthusiasm          ██████████████████░░ 95%
-🎯 Passion             ██████████████████░░ 95%
+| Skill | Proficiency |
+|---|---|
+| 💡 Problem Solving | ![90%](https://img.shields.io/badge/90%25-2196F3?style=flat-square&logoColor=white) |
+| 🤝 Teamwork | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
+| 🎨 Creativity | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
+| 🗣️ Communication | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
+| 😊 Sociability | ![85%](https://img.shields.io/badge/85%25-4CAF50?style=flat-square&logoColor=white) |
+| 🔥 Enthusiasm | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
+| 🎯 Passion | ![95%](https://img.shields.io/badge/95%25-2196F3?style=flat-square&logoColor=white) |
 
 ---
 
@@ -228,35 +270,43 @@ GitHub Actions             ████████████████░�
 
 | Language | Proficiency |
 |---|---|
-| 🇸🇦 Arabic | Native |
-| 🇺🇸 English | Very Good (Speaking & Writing) |
+| 🇸🇦 Arabic (Native) | ![Native](https://img.shields.io/badge/Native-2196F3?style=flat-square&logoColor=white) |
+| 🇺🇸 English | ![Very Good](https://img.shields.io/badge/Very_Good-4CAF50?style=flat-square&logoColor=white) |
 
 ---
 
 ## 📊 GitHub Statistics
 
-📱 Projects:        10+ repositories
-⭐ Focus:          Flutter, Clean Architecture, Performance
-📈 Contributions:   Active open-source contributor
-🏆 Best Practices:  Unit Testing, CI/CD, Clean Code
+| Metric | Details |
+|---|---|
+| 📱 **Projects** | 10+ repositories |
+| ⭐ **Focus** | Flutter, Clean Architecture, Performance |
+| 📈 **Contributions** | Active open-source contributor |
+| 🏆 **Best Practices** | Unit Testing, CI/CD, Clean Code |
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cshazem1&show_icons=true&theme=dark)](https://github.com/cshazem1)
 
 ---
 
 ## 💬 Let's Connect!
 
 I'm passionate about building exceptional mobile experiences and always open to discussing:
+
 - 🏗️ **Architecture patterns** and best practices
 - ⚡ **Performance optimization** techniques
 - 🎨 **UI/UX implementation** challenges
 - 🚀 **Product development** strategies
 - 📚 **Knowledge sharing** and mentorship
+- 💼 **Career opportunities** and collaborations
 
 ### 📞 Get in Touch
 
-- 💼 **LinkedIn:** [Hazem Mahmoud Mohamed](https://www.linkedin.com/in/hazem-mahmoud-mohamed-615996338/)
-- 📧 **Email:** hazem.mahmoud.m1@gmail.com
-- 📱 **WhatsApp:** +20 1558 368 864
-- 🐙 **GitHub:** [@cshazem1](https://github.com/cshazem1)
+| Contact | Details |
+|---|---|
+| 💼 **LinkedIn** | [Hazem Mahmoud Mohamed](https://www.linkedin.com/in/hazem-mahmoud-mohamed-615996338/) |
+| 📧 **Email** | hazem.mahmoud.m1@gmail.com |
+| 📱 **WhatsApp** | [+20 1558 368 864](https://wa.me/201558368864) |
+| 🐙 **GitHub** | [@cshazem1](https://github.com/cshazem1) |
 
 ---
 
@@ -268,6 +318,8 @@ I'm passionate about building exceptional mobile experiences and always open to 
 
 [![Views](https://komarev.com/ghpvc/?username=cshazem1&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/cshazem1)
 
+⭐ **If you like my work, please consider giving a star to my repositories!**
+
 </div>
 
 ---
@@ -275,3 +327,16 @@ I'm passionate about building exceptional mobile experiences and always open to 
 ## 📄 License
 
 This portfolio is open source and available under the [MIT License](LICENSE).
+
+---
+
+### 🚀 What's Next?
+
+I'm continuously learning and expanding my skills. Currently exploring:
+- 🔍 Advanced Performance Optimization
+- 🧪 Test-Driven Development (TDD)
+- 🎯 Backend Development with Dart
+- 📱 iOS-specific Development
+- 🤖 AI Integration in Mobile Apps
+
+**Let's build something amazing together! 🚀**
