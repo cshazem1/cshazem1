@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:hazem.mahmoud.m1@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/201558368864)
 
-🇪🇬 Egypt • 2+ Years Experience • Open for Opportunities
+🇪🇬 Egypt • 2 Years Experience • Open for Opportunities
 
 </div>
 
@@ -89,11 +89,6 @@
 
 ---
 
-## 🌐 Languages
-
-🇸🇦 **Arabic** (Native) • 🇺🇸 **English** (Very Good)
-
----
 
 <div align="center">
 
