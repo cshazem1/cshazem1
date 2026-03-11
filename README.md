@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazem.mahmoud.m1@gmail.com)
 
 
-🇪🇬 Egypt • 2 Years Experience • Open for Opportunities
+🇪🇬 Egypt • +2 Years Experience • Open for Opportunities
 
 </div>
 
